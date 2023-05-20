@@ -5,6 +5,9 @@ on:
     branches: [master, main]
   pull_request:
     branches: [master, main]
+  
+  #Allows running the workflow manually from actions tab
+  workflow_dispatch:
 
 jobs: # list of things to do
   lint_function_js:
