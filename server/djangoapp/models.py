@@ -1,9 +1,5 @@
 from django.db import models
 from django.utils.timezone import now
-
-
-from django.db import models
-from django.utils.timezone import now
 import datetime
 
 # Create your models here.
