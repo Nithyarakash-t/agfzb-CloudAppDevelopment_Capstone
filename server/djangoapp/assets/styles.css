@@ -1,0 +1,5 @@
+.app-container { padding-left: 4.75rem; padding-right: 4.75rem; width: 100%; max-width: 1280px; margin-left: auto; margin-right: auto;} 
+/* // width: 100%; max-width: 1280px; margin-left: auto; margin-right: auto; */
+@media (max-width: 450px) {
+    .app-container { padding-left: 1rem; padding-right: 1rem; }
+}
